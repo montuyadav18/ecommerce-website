@@ -1,1 +1,1 @@
-# ecommerce-website
+# Simple eCommerce website with CRUD operations
